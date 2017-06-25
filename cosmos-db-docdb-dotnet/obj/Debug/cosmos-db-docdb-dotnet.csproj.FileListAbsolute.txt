@@ -1,0 +1,12 @@
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\cosmos-db-docdb-dotnet.exe.config
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\cosmos-db-docdb-dotnet.exe
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\cosmos-db-docdb-dotnet.pdb
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\Newtonsoft.Json.dll
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\bin\Debug\Newtonsoft.Json.xml
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\obj\Debug\cosmos-db-docdb-dotnet.csprojResolveAssemblyReference.cache
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\obj\Debug\cosmos-db-docdb-dotnet.exe
+c:\users\yuchi\documents\visual studio 2017\Projects\cosmos-db-docdb-dotnet\cosmos-db-docdb-dotnet\obj\Debug\cosmos-db-docdb-dotnet.pdb
